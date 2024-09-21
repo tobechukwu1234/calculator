@@ -7,14 +7,14 @@
 .container{
   width: 100%;
   height: 100vh;
-  background: #b2d4dd;
+  background: #fffa78;
   display: flex;
   align-items: center;
   justify-content: center;
   flex-direction: column;
 }
 .calculator{
-  background: #06295c;
+  background: #141516;
   padding: 20px;
   border-radius: 10px;
 }
